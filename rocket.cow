@@ -1,0 +1,21 @@
+##
+## Rocket Cow
+##
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+      $thoughts
+EOC
+$the_cow .= <<'EOC';
+
+        |
+       / \
+      / _ \
+     |.' '.|
+     |'._.'|
+     |     |
+   ,'|  |  |`.
+  /  |  |  |  \
+  |,-'--|--'-.| SR
+
+EOC
